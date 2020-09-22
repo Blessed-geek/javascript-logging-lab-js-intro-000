@@ -1,3 +1,3 @@
 console.error('HELP');
-console.log();('HELP');
-console.warn('HELP');
+console.log();('I would be a logger');
+console.warn('I show warnings');
